@@ -1,4 +1,4 @@
-# 🚀 [CVPR 2025] [Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability]([url](https://arxiv.org/pdf/2505.03097))
+# 🚀 [CVPR 2025] [Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability](https://arxiv.org/pdf/2505.03097)
 
 <div align="center">
 <img src="./motivation.png" alt="demo" style="zoom:150%;" />
