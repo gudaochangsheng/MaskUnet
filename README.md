@@ -63,5 +63,5 @@ conda env create -f environment.yaml
 ## Acknowledgement
 
 This project is based on [Diffusers](https://github.com/huggingface/diffusers). Thanks for their awesome works.
-### Contact
+## Contact
 If you have any questions, please feel free to reach out to me at  `scitop1998@gmail.com`. 
