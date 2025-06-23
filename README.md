@@ -52,10 +52,11 @@ conda env create -f environment.yaml
 ## Citation
 
 ```
-@article{wang2025not,
+@inproceedings{wang2025not,
   title={Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability},
   author={Wang, Lei and Li, Senmao and Yang, Fei and Wang, Jianye and Zhang, Ziheng and Liu, Yuhan and Wang, Yaxing and Yang, Jian},
-  journal={arXiv preprint arXiv:2505.03097},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={12880--12890},
   year={2025}
 }
 
