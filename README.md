@@ -27,6 +27,11 @@ fantasyfish/laion-art [link1](https://huggingface.co/datasets/fantasyfish/laion-
 conda env create -f environment.yaml
   ```
 ### Training-based
+#### train
+```shell
+./training/train_hyperunet.sh
+  ```
+#### inference
 ```shell
 ./training/infer_sd1-5_hardmask.sh
   ```
