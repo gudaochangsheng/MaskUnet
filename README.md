@@ -1,5 +1,8 @@
 # 🚀 [CVPR 2025] [Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability](https://arxiv.org/pdf/2505.03097)
 
+[![arXiv](https://img.shields.io/badge/arXiv-MaskUnet-<COLOR>.svg)](https://arxiv.org/abs/2505.03097) [![arXiv](https://img.shields.io/badge/paper-MaskUnet-b31b1b.svg)](https://arxiv.org/pdf/2505.03097) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/MaskUnet )
+
+
 <div align="center">
 <img src="./motivation.png" alt="demo" style="zoom:150%;" />
   <br>
