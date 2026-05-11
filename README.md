@@ -1,7 +1,10 @@
 
 # 🚀 MaskUnet: Not All Parameters Matter for Enhancing Diffusion Generation
+
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.  </h2>
+
 ### CVPR 2025
+
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.03097-b31b1b.svg)](https://arxiv.org/abs/2505.03097)
