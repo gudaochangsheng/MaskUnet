@@ -7,19 +7,7 @@
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.03097-b31b1b.svg)](https://arxiv.org/abs/2505.03097)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/pdf/2505.03097)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/MaskUnet)<p>
-  <a href="https://blog.csdn.net/wl1780852311/article/details/148223439?ops_request_misc=elastic_search_misc&request_id=164b4a527a9315755292f5b82dc8a502&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-148223439-null-null.nonecase&utm_term=maskunet&spm=1018.2226.3001.4450">
-    <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white" />
-  </a>
-  <a href="https://zhuanlan.zhihu.com/p/1910288337698296472">
-    <img src="https://img.shields.io/badge/Zhihu-Article-0084FF?style=flat-square&logo=zhihu&logoColor=white" />
-  </a>
-  <a href="https://mp.weixin.qq.com/s/eMqJdXly8_Sb-wtqEg-Zxw">
-    <img src="https://img.shields.io/badge/WeChat-Article-07C160?style=flat-square&logo=wechat&logoColor=white" />
-  </a>
-</p>
+[![arXiv](https://img.shields.io/badge/arXiv-2505.03097-b31b1b.svg)](https://arxiv.org/abs/2505.03097) [![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/pdf/2505.03097) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/MaskUnet) [![CSDN](https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/wl1780852311/article/details/148223439?ops_request_misc=elastic_search_misc&request_id=164b4a527a9315755292f5b82dc8a502&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticSearch~search_v2-1-148223439-null-null.nonecase&utm_term=maskunet&spm=1018.2226.3001.4450) [![Zhihu](https://img.shields.io/badge/Zhihu-Article-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://zhuanlan.zhihu.com/p/1910288337698296472) [![WeChat](https://img.shields.io/badge/WeChat-Article-07C160?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/eMqJdXly8_Sb-wtqEg-Zxw)
 
 ## 🔥 Highlights
 
